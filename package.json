@@ -1,0 +1,19 @@
+{
+  "name": "r3e-driver-spectator",
+  "version": "0.0.1",
+  "description": "RaceRoom Racing Experience Driver Spectator Camera",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "raceroom",
+    "spectator",
+    "camera"
+  ],
+  "author": "Bruno Duarte Brito <brunodb3@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
