@@ -12,7 +12,7 @@
     "camera"
   ],
   "author": "Bruno Duarte Brito <brunodb3@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   }
